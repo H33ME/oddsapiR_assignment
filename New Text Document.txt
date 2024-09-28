@@ -1,0 +1,14 @@
+some event ids may have expired or invalid for instance when I
+
+call the event id above ('92cf7db605a734b10e69eabf56e1eac9')
+
+on the website I get the error below:
+{"message":"Event not found. 
+The event may have expired or the event id is invalid.",
+"error_code":"EVENT_NOT_FOUND","details_url":"https://the-odds-api.com/liveapi/guides/v4/api-error-codes.html#event-not-found"}
+
+when I call the function below the error displayed is object 'resp' not found
+the function in the oddsapiR creates an object resp if the variable provided are correct 
+but if the values provided in the function variable
+
+are not available in the database the resp object is not created thus the error is produced.

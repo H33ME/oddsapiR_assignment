@@ -1,0 +1,253 @@
+"region","market key","event_id","sport_key","bookmaker","earliest_odds","latest_odds","home_team","away_team","commence_time","outcomes_name","outcome_point","outcomes_price"
+"us","totals","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","BetMGM",2.2,1.57,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Over",3.5,2.2
+"us","totals","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","BetMGM",2.2,1.57,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Under",3.5,2.2
+"us","totals","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","BetOnline.ag",1.85,2.02,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Over",3,1.85
+"us","totals","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","BetOnline.ag",1.85,2.02,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Under",3,1.85
+"us","totals","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","BetRivers",2.32,1.6,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Over",3.5,2.32
+"us","totals","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","BetRivers",2.32,1.6,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Under",3.5,2.32
+"us","totals","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","BetUS",1.85,1.98,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Over",3,1.85
+"us","totals","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","BetUS",1.85,1.98,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Under",3,1.85
+"us","totals","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","Bovada",1.85,1.98,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Over",3,1.85
+"us","totals","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","Bovada",1.85,1.98,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Under",3,1.85
+"us","totals","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","LowVig.ag",1.85,2.02,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Over",3,1.85
+"us","totals","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","LowVig.ag",1.85,2.02,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Under",3,1.85
+"us","totals","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","MyBookie.ag",1.83,1.98,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Over",3,1.83
+"us","totals","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","MyBookie.ag",1.83,1.98,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Under",3,1.83
+"us","spreads","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","BetOnline.ag",1.83,2.04,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Chelsea",-0.75,1.83
+"us","spreads","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","BetOnline.ag",1.83,2.04,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Crystal Palace",-0.75,1.83
+"us","spreads","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","BetUS",2.05,1.8,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Chelsea",-1,2.05
+"us","spreads","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","BetUS",2.05,1.8,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Crystal Palace",-1,2.05
+"us","spreads","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","Bovada",2.05,1.8,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Chelsea",-1,2.05
+"us","spreads","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","Bovada",2.05,1.8,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Crystal Palace",-1,2.05
+"us","spreads","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","LowVig.ag",1.83,2.04,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Chelsea",-0.75,1.83
+"us","spreads","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","LowVig.ag",1.83,2.04,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Crystal Palace",-0.75,1.83
+"us","spreads","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","MyBookie.ag",1.73,2.12,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Chelsea",-0.5,1.73
+"us","spreads","fc3ce4f31b7fe23e3d8eccd0c12ebfbf","soccer_epl","MyBookie.ag",1.73,2.12,"Chelsea","Crystal Palace","2024-09-01T12:30:00Z","Crystal Palace",-0.5,1.73
+"us","totals","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","BetMGM",1.91,1.77,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Over",3.5,1.91
+"us","totals","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","BetMGM",1.91,1.77,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Under",3.5,1.91
+"us","totals","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","BetOnline.ag",1.95,1.9,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Over",3.5,1.95
+"us","totals","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","BetOnline.ag",1.95,1.9,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Under",3.5,1.95
+"us","totals","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","BetRivers",1.93,1.85,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Over",3.5,1.93
+"us","totals","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","BetRivers",1.93,1.85,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Under",3.5,1.93
+"us","totals","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","BetUS",1.92,1.9,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Over",3.5,1.92
+"us","totals","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","BetUS",1.92,1.9,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Under",3.5,1.92
+"us","totals","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","Bovada",1.93,1.89,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Over",3.5,1.93
+"us","totals","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","Bovada",1.93,1.89,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Under",3.5,1.93
+"us","totals","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","LowVig.ag",1.95,1.9,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Over",3.5,1.95
+"us","totals","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","LowVig.ag",1.95,1.9,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Under",3.5,1.95
+"us","totals","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","MyBookie.ag",1.93,1.88,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Over",3.5,1.93
+"us","totals","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","MyBookie.ag",1.93,1.88,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Under",3.5,1.93
+"us","spreads","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","BetOnline.ag",1.83,2.05,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Newcastle United",0,1.83
+"us","spreads","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","BetOnline.ag",1.83,2.05,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Tottenham Hotspur",0,1.83
+"us","spreads","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","BetUS",1.82,2.02,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Newcastle United",0,1.82
+"us","spreads","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","BetUS",1.82,2.02,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Tottenham Hotspur",0,1.82
+"us","spreads","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","Bovada",1.82,2.02,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Newcastle United",0,1.82
+"us","spreads","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","Bovada",1.82,2.02,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Tottenham Hotspur",0,1.82
+"us","spreads","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","LowVig.ag",1.83,2.04,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Newcastle United",0,1.83
+"us","spreads","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","LowVig.ag",1.83,2.04,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Tottenham Hotspur",0,1.83
+"us","spreads","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","MyBookie.ag",1.81,2.02,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Newcastle United",0,1.81
+"us","spreads","36c348ee3ab335d09cabd3a112caaa4a","soccer_epl","MyBookie.ag",1.81,2.02,"Newcastle United","Tottenham Hotspur","2024-09-01T12:30:00Z","Tottenham Hotspur",0,1.81
+"us","totals","eb749753d96a4af7d4a56f949573a279","soccer_epl","BetMGM",2.05,1.69,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Over",3.5,2.05
+"us","totals","eb749753d96a4af7d4a56f949573a279","soccer_epl","BetMGM",2.05,1.69,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Under",3.5,2.05
+"us","totals","eb749753d96a4af7d4a56f949573a279","soccer_epl","BetOnline.ag",2.18,1.72,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Over",3.5,2.18
+"us","totals","eb749753d96a4af7d4a56f949573a279","soccer_epl","BetOnline.ag",2.18,1.72,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Under",3.5,2.18
+"us","totals","eb749753d96a4af7d4a56f949573a279","soccer_epl","BetRivers",2.17,1.68,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Over",3.5,2.17
+"us","totals","eb749753d96a4af7d4a56f949573a279","soccer_epl","BetRivers",2.17,1.68,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Under",3.5,2.17
+"us","totals","eb749753d96a4af7d4a56f949573a279","soccer_epl","BetUS",2.15,1.74,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Over",3.5,2.15
+"us","totals","eb749753d96a4af7d4a56f949573a279","soccer_epl","BetUS",2.15,1.74,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Under",3.5,2.15
+"us","totals","eb749753d96a4af7d4a56f949573a279","soccer_epl","Bovada",1.91,1.91,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Over",3.25,1.91
+"us","totals","eb749753d96a4af7d4a56f949573a279","soccer_epl","Bovada",1.91,1.91,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Under",3.25,1.91
+"us","totals","eb749753d96a4af7d4a56f949573a279","soccer_epl","LowVig.ag",2.18,1.73,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Over",3.5,2.18
+"us","totals","eb749753d96a4af7d4a56f949573a279","soccer_epl","LowVig.ag",2.18,1.73,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Under",3.5,2.18
+"us","totals","eb749753d96a4af7d4a56f949573a279","soccer_epl","MyBookie.ag",2.07,1.7,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Over",3.5,2.07
+"us","totals","eb749753d96a4af7d4a56f949573a279","soccer_epl","MyBookie.ag",2.07,1.7,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Under",3.5,2.07
+"us","spreads","eb749753d96a4af7d4a56f949573a279","soccer_epl","BetOnline.ag",2.18,1.72,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Liverpool",-0.75,2.18
+"us","spreads","eb749753d96a4af7d4a56f949573a279","soccer_epl","BetOnline.ag",2.18,1.72,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Manchester United",-0.75,2.18
+"us","spreads","eb749753d96a4af7d4a56f949573a279","soccer_epl","BetUS",1.91,1.91,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Liverpool",-0.5,1.91
+"us","spreads","eb749753d96a4af7d4a56f949573a279","soccer_epl","BetUS",1.91,1.91,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Manchester United",-0.5,1.91
+"us","spreads","eb749753d96a4af7d4a56f949573a279","soccer_epl","Bovada",1.93,1.89,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Liverpool",-0.5,1.93
+"us","spreads","eb749753d96a4af7d4a56f949573a279","soccer_epl","Bovada",1.93,1.89,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Manchester United",-0.5,1.93
+"us","spreads","eb749753d96a4af7d4a56f949573a279","soccer_epl","LowVig.ag",2.18,1.73,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Liverpool",-0.75,2.18
+"us","spreads","eb749753d96a4af7d4a56f949573a279","soccer_epl","LowVig.ag",2.18,1.73,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Manchester United",-0.75,2.18
+"us","spreads","eb749753d96a4af7d4a56f949573a279","soccer_epl","MyBookie.ag",1.86,1.87,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Liverpool",-0.5,1.86
+"us","spreads","eb749753d96a4af7d4a56f949573a279","soccer_epl","MyBookie.ag",1.86,1.87,"Manchester United","Liverpool","2024-09-01T15:00:00Z","Manchester United",-0.5,1.86
+"us","totals","91621ce0ca027651f08e4080857a5b57","soccer_epl","BetRivers",1.73,2.12,"Southampton","Manchester United","2024-09-14T11:30:00Z","Over",2.5,1.73
+"us","totals","91621ce0ca027651f08e4080857a5b57","soccer_epl","BetRivers",1.73,2.12,"Southampton","Manchester United","2024-09-14T11:30:00Z","Under",2.5,1.73
+"us","totals","91621ce0ca027651f08e4080857a5b57","soccer_epl","Bovada",1.85,1.98,"Southampton","Manchester United","2024-09-14T11:30:00Z","Over",2.75,1.85
+"us","totals","91621ce0ca027651f08e4080857a5b57","soccer_epl","Bovada",1.85,1.98,"Southampton","Manchester United","2024-09-14T11:30:00Z","Under",2.75,1.85
+"us","totals","91621ce0ca027651f08e4080857a5b57","soccer_epl","MyBookie.ag",1.64,2.13,"Southampton","Manchester United","2024-09-14T11:30:00Z","Over",2.5,1.64
+"us","totals","91621ce0ca027651f08e4080857a5b57","soccer_epl","MyBookie.ag",1.64,2.13,"Southampton","Manchester United","2024-09-14T11:30:00Z","Under",2.5,1.64
+"us","spreads","91621ce0ca027651f08e4080857a5b57","soccer_epl","Bovada",1.95,1.87,"Southampton","Manchester United","2024-09-14T11:30:00Z","Manchester United",-0.75,1.95
+"us","spreads","91621ce0ca027651f08e4080857a5b57","soccer_epl","Bovada",1.95,1.87,"Southampton","Manchester United","2024-09-14T11:30:00Z","Southampton",-0.75,1.95
+"us","spreads","91621ce0ca027651f08e4080857a5b57","soccer_epl","MyBookie.ag",1.7,2.04,"Southampton","Manchester United","2024-09-14T11:30:00Z","Manchester United",-0.5,1.7
+"us","spreads","91621ce0ca027651f08e4080857a5b57","soccer_epl","MyBookie.ag",1.7,2.04,"Southampton","Manchester United","2024-09-14T11:30:00Z","Southampton",-0.5,1.7
+"us","totals","06fc08971a7e70e236a5786ba0dc671b","soccer_epl","BetRivers",1.8,2.02,"Manchester City","Brentford","2024-09-14T14:00:00Z","Over",3.5,1.8
+"us","totals","06fc08971a7e70e236a5786ba0dc671b","soccer_epl","BetRivers",1.8,2.02,"Manchester City","Brentford","2024-09-14T14:00:00Z","Under",3.5,1.8
+"us","totals","06fc08971a7e70e236a5786ba0dc671b","soccer_epl","Bovada",1.83,2,"Manchester City","Brentford","2024-09-14T14:00:00Z","Over",3.5,1.83
+"us","totals","06fc08971a7e70e236a5786ba0dc671b","soccer_epl","Bovada",1.83,2,"Manchester City","Brentford","2024-09-14T14:00:00Z","Under",3.5,1.83
+"us","totals","06fc08971a7e70e236a5786ba0dc671b","soccer_epl","MyBookie.ag",1.78,1.93,"Manchester City","Brentford","2024-09-14T14:00:00Z","Over",3.5,1.78
+"us","totals","06fc08971a7e70e236a5786ba0dc671b","soccer_epl","MyBookie.ag",1.78,1.93,"Manchester City","Brentford","2024-09-14T14:00:00Z","Under",3.5,1.78
+"us","spreads","06fc08971a7e70e236a5786ba0dc671b","soccer_epl","Bovada",1.98,1.85,"Manchester City","Brentford","2024-09-14T14:00:00Z","Brentford",2,1.98
+"us","spreads","06fc08971a7e70e236a5786ba0dc671b","soccer_epl","Bovada",1.98,1.85,"Manchester City","Brentford","2024-09-14T14:00:00Z","Manchester City",2,1.98
+"us","spreads","06fc08971a7e70e236a5786ba0dc671b","soccer_epl","MyBookie.ag",1.58,2.24,"Manchester City","Brentford","2024-09-14T14:00:00Z","Brentford",2.5,1.58
+"us","spreads","06fc08971a7e70e236a5786ba0dc671b","soccer_epl","MyBookie.ag",1.58,2.24,"Manchester City","Brentford","2024-09-14T14:00:00Z","Manchester City",2.5,1.58
+"us","totals","ab9e62ee5632bc66cd23609a25a44812","soccer_epl","BetRivers",2.43,1.55,"Brighton and Hove Albion","Ipswich Town","2024-09-14T14:00:00Z","Over",3.5,2.43
+"us","totals","ab9e62ee5632bc66cd23609a25a44812","soccer_epl","BetRivers",2.43,1.55,"Brighton and Hove Albion","Ipswich Town","2024-09-14T14:00:00Z","Under",3.5,2.43
+"us","totals","ab9e62ee5632bc66cd23609a25a44812","soccer_epl","Bovada",1.93,1.89,"Brighton and Hove Albion","Ipswich Town","2024-09-14T14:00:00Z","Over",3,1.93
+"us","totals","ab9e62ee5632bc66cd23609a25a44812","soccer_epl","Bovada",1.93,1.89,"Brighton and Hove Albion","Ipswich Town","2024-09-14T14:00:00Z","Under",3,1.93
+"us","totals","ab9e62ee5632bc66cd23609a25a44812","soccer_epl","MyBookie.ag",1.55,2.31,"Brighton and Hove Albion","Ipswich Town","2024-09-14T14:00:00Z","Over",2.5,1.55
+"us","totals","ab9e62ee5632bc66cd23609a25a44812","soccer_epl","MyBookie.ag",1.55,2.31,"Brighton and Hove Albion","Ipswich Town","2024-09-14T14:00:00Z","Under",2.5,1.55
+"us","spreads","ab9e62ee5632bc66cd23609a25a44812","soccer_epl","Bovada",1.83,2,"Brighton and Hove Albion","Ipswich Town","2024-09-14T14:00:00Z","Brighton and Hove Albion",-1.25,1.83
+"us","spreads","ab9e62ee5632bc66cd23609a25a44812","soccer_epl","Bovada",1.83,2,"Brighton and Hove Albion","Ipswich Town","2024-09-14T14:00:00Z","Ipswich Town",-1.25,1.83
+"us","spreads","ab9e62ee5632bc66cd23609a25a44812","soccer_epl","MyBookie.ag",1.99,1.73,"Brighton and Hove Albion","Ipswich Town","2024-09-14T14:00:00Z","Brighton and Hove Albion",-1.5,1.99
+"us","spreads","ab9e62ee5632bc66cd23609a25a44812","soccer_epl","MyBookie.ag",1.99,1.73,"Brighton and Hove Albion","Ipswich Town","2024-09-14T14:00:00Z","Ipswich Town",-1.5,1.99
+"us","totals","c3b563ad6f5007355d9c0ce0e7e6f13e","soccer_epl","BetRivers",1.75,2.08,"Crystal Palace","Leicester City","2024-09-14T14:00:00Z","Over",2.5,1.75
+"us","totals","c3b563ad6f5007355d9c0ce0e7e6f13e","soccer_epl","BetRivers",1.75,2.08,"Crystal Palace","Leicester City","2024-09-14T14:00:00Z","Under",2.5,1.75
+"us","totals","c3b563ad6f5007355d9c0ce0e7e6f13e","soccer_epl","Bovada",1.93,1.89,"Crystal Palace","Leicester City","2024-09-14T14:00:00Z","Over",2.75,1.93
+"us","totals","c3b563ad6f5007355d9c0ce0e7e6f13e","soccer_epl","Bovada",1.93,1.89,"Crystal Palace","Leicester City","2024-09-14T14:00:00Z","Under",2.75,1.93
+"us","totals","c3b563ad6f5007355d9c0ce0e7e6f13e","soccer_epl","MyBookie.ag",1.69,2.04,"Crystal Palace","Leicester City","2024-09-14T14:00:00Z","Over",2.5,1.69
+"us","totals","c3b563ad6f5007355d9c0ce0e7e6f13e","soccer_epl","MyBookie.ag",1.69,2.04,"Crystal Palace","Leicester City","2024-09-14T14:00:00Z","Under",2.5,1.69
+"us","spreads","c3b563ad6f5007355d9c0ce0e7e6f13e","soccer_epl","Bovada",2.02,1.82,"Crystal Palace","Leicester City","2024-09-14T14:00:00Z","Crystal Palace",-1,2.02
+"us","spreads","c3b563ad6f5007355d9c0ce0e7e6f13e","soccer_epl","Bovada",2.02,1.82,"Crystal Palace","Leicester City","2024-09-14T14:00:00Z","Leicester City",-1,2.02
+"us","spreads","c3b563ad6f5007355d9c0ce0e7e6f13e","soccer_epl","MyBookie.ag",1.57,2.26,"Crystal Palace","Leicester City","2024-09-14T14:00:00Z","Crystal Palace",-0.5,1.57
+"us","spreads","c3b563ad6f5007355d9c0ce0e7e6f13e","soccer_epl","MyBookie.ag",1.57,2.26,"Crystal Palace","Leicester City","2024-09-14T14:00:00Z","Leicester City",-0.5,1.57
+"us","totals","3281d26485c4d33951cad339a09a59f0","soccer_epl","BetRivers",1.68,2.18,"Fulham","West Ham United","2024-09-14T14:00:00Z","Over",2.5,1.68
+"us","totals","3281d26485c4d33951cad339a09a59f0","soccer_epl","BetRivers",1.68,2.18,"Fulham","West Ham United","2024-09-14T14:00:00Z","Under",2.5,1.68
+"us","totals","3281d26485c4d33951cad339a09a59f0","soccer_epl","Bovada",1.89,1.93,"Fulham","West Ham United","2024-09-14T14:00:00Z","Over",2.75,1.89
+"us","totals","3281d26485c4d33951cad339a09a59f0","soccer_epl","Bovada",1.89,1.93,"Fulham","West Ham United","2024-09-14T14:00:00Z","Under",2.75,1.89
+"us","totals","3281d26485c4d33951cad339a09a59f0","soccer_epl","MyBookie.ag",1.68,2.07,"Fulham","West Ham United","2024-09-14T14:00:00Z","Over",2.5,1.68
+"us","totals","3281d26485c4d33951cad339a09a59f0","soccer_epl","MyBookie.ag",1.68,2.07,"Fulham","West Ham United","2024-09-14T14:00:00Z","Under",2.5,1.68
+"us","spreads","3281d26485c4d33951cad339a09a59f0","soccer_epl","Bovada",1.8,2.05,"Fulham","West Ham United","2024-09-14T14:00:00Z","Fulham",0,1.8
+"us","spreads","3281d26485c4d33951cad339a09a59f0","soccer_epl","Bovada",1.8,2.05,"Fulham","West Ham United","2024-09-14T14:00:00Z","West Ham United",0,1.8
+"us","spreads","3281d26485c4d33951cad339a09a59f0","soccer_epl","MyBookie.ag",2.37,1.52,"Fulham","West Ham United","2024-09-14T14:00:00Z","Fulham",-0.5,2.37
+"us","spreads","3281d26485c4d33951cad339a09a59f0","soccer_epl","MyBookie.ag",2.37,1.52,"Fulham","West Ham United","2024-09-14T14:00:00Z","West Ham United",-0.5,2.37
+"us","totals","432d58690dfca587c142527282d0d3a0","soccer_epl","BetRivers",1.88,1.92,"Liverpool","Nottingham Forest","2024-09-14T14:00:00Z","Over",3.5,1.88
+"us","totals","432d58690dfca587c142527282d0d3a0","soccer_epl","BetRivers",1.88,1.92,"Liverpool","Nottingham Forest","2024-09-14T14:00:00Z","Under",3.5,1.88
+"us","totals","432d58690dfca587c142527282d0d3a0","soccer_epl","Bovada",1.91,1.91,"Liverpool","Nottingham Forest","2024-09-14T14:00:00Z","Over",3.5,1.91
+"us","totals","432d58690dfca587c142527282d0d3a0","soccer_epl","Bovada",1.91,1.91,"Liverpool","Nottingham Forest","2024-09-14T14:00:00Z","Under",3.5,1.91
+"us","totals","432d58690dfca587c142527282d0d3a0","soccer_epl","MyBookie.ag",1.85,1.85,"Liverpool","Nottingham Forest","2024-09-14T14:00:00Z","Over",3.5,1.85
+"us","totals","432d58690dfca587c142527282d0d3a0","soccer_epl","MyBookie.ag",1.85,1.85,"Liverpool","Nottingham Forest","2024-09-14T14:00:00Z","Under",3.5,1.85
+"us","spreads","432d58690dfca587c142527282d0d3a0","soccer_epl","Bovada",1.95,1.87,"Liverpool","Nottingham Forest","2024-09-14T14:00:00Z","Liverpool",-2,1.95
+"us","spreads","432d58690dfca587c142527282d0d3a0","soccer_epl","Bovada",1.95,1.87,"Liverpool","Nottingham Forest","2024-09-14T14:00:00Z","Nottingham Forest",-2,1.95
+"us","spreads","432d58690dfca587c142527282d0d3a0","soccer_epl","MyBookie.ag",1.57,2.25,"Liverpool","Nottingham Forest","2024-09-14T14:00:00Z","Liverpool",-1.5,1.57
+"us","spreads","432d58690dfca587c142527282d0d3a0","soccer_epl","MyBookie.ag",1.57,2.25,"Liverpool","Nottingham Forest","2024-09-14T14:00:00Z","Nottingham Forest",-1.5,1.57
+"us","totals","e65a3a170d3def0f9d050d9aa1e1199a","soccer_epl","BetRivers",1.65,2.25,"Aston Villa","Everton","2024-09-14T16:30:00Z","Over",2.5,1.65
+"us","totals","e65a3a170d3def0f9d050d9aa1e1199a","soccer_epl","BetRivers",1.65,2.25,"Aston Villa","Everton","2024-09-14T16:30:00Z","Under",2.5,1.65
+"us","totals","e65a3a170d3def0f9d050d9aa1e1199a","soccer_epl","Bovada",1.82,2.02,"Aston Villa","Everton","2024-09-14T16:30:00Z","Over",2.75,1.82
+"us","totals","e65a3a170d3def0f9d050d9aa1e1199a","soccer_epl","Bovada",1.82,2.02,"Aston Villa","Everton","2024-09-14T16:30:00Z","Under",2.75,1.82
+"us","totals","e65a3a170d3def0f9d050d9aa1e1199a","soccer_epl","MyBookie.ag",1.62,2.17,"Aston Villa","Everton","2024-09-14T16:30:00Z","Over",2.5,1.62
+"us","totals","e65a3a170d3def0f9d050d9aa1e1199a","soccer_epl","MyBookie.ag",1.62,2.17,"Aston Villa","Everton","2024-09-14T16:30:00Z","Under",2.5,1.62
+"us","spreads","e65a3a170d3def0f9d050d9aa1e1199a","soccer_epl","Bovada",1.8,2.05,"Aston Villa","Everton","2024-09-14T16:30:00Z","Aston Villa",-1,1.8
+"us","spreads","e65a3a170d3def0f9d050d9aa1e1199a","soccer_epl","Bovada",1.8,2.05,"Aston Villa","Everton","2024-09-14T16:30:00Z","Everton",-1,1.8
+"us","spreads","e65a3a170d3def0f9d050d9aa1e1199a","soccer_epl","MyBookie.ag",2.24,1.58,"Aston Villa","Everton","2024-09-14T16:30:00Z","Aston Villa",-1.5,2.24
+"us","spreads","e65a3a170d3def0f9d050d9aa1e1199a","soccer_epl","MyBookie.ag",2.24,1.58,"Aston Villa","Everton","2024-09-14T16:30:00Z","Everton",-1.5,2.24
+"us","totals","5840ea1125fa92be303c1f8673c8d1c3","soccer_epl","BetRivers",2.12,1.72,"Bournemouth","Chelsea","2024-09-14T19:00:00Z","Over",3.5,2.12
+"us","totals","5840ea1125fa92be303c1f8673c8d1c3","soccer_epl","BetRivers",2.12,1.72,"Bournemouth","Chelsea","2024-09-14T19:00:00Z","Under",3.5,2.12
+"us","totals","5840ea1125fa92be303c1f8673c8d1c3","soccer_epl","Bovada",2.02,1.82,"Bournemouth","Chelsea","2024-09-14T19:00:00Z","Over",3.25,2.02
+"us","totals","5840ea1125fa92be303c1f8673c8d1c3","soccer_epl","Bovada",2.02,1.82,"Bournemouth","Chelsea","2024-09-14T19:00:00Z","Under",3.25,2.02
+"us","totals","5840ea1125fa92be303c1f8673c8d1c3","soccer_epl","MyBookie.ag",2.16,1.62,"Bournemouth","Chelsea","2024-09-14T19:00:00Z","Over",3.5,2.16
+"us","totals","5840ea1125fa92be303c1f8673c8d1c3","soccer_epl","MyBookie.ag",2.16,1.62,"Bournemouth","Chelsea","2024-09-14T19:00:00Z","Under",3.5,2.16
+"us","spreads","5840ea1125fa92be303c1f8673c8d1c3","soccer_epl","Bovada",1.83,2,"Bournemouth","Chelsea","2024-09-14T19:00:00Z","Bournemouth",0.5,1.83
+"us","spreads","5840ea1125fa92be303c1f8673c8d1c3","soccer_epl","Bovada",1.83,2,"Bournemouth","Chelsea","2024-09-14T19:00:00Z","Chelsea",0.5,1.83
+"us","spreads","5840ea1125fa92be303c1f8673c8d1c3","soccer_epl","MyBookie.ag",1.79,1.93,"Bournemouth","Chelsea","2024-09-14T19:00:00Z","Bournemouth",0.5,1.79
+"us","spreads","5840ea1125fa92be303c1f8673c8d1c3","soccer_epl","MyBookie.ag",1.79,1.93,"Bournemouth","Chelsea","2024-09-14T19:00:00Z","Chelsea",0.5,1.79
+"us","totals","2c13d2c658170f1809caf0bc268382ad","soccer_epl","BetRivers",1.6,2.35,"Tottenham Hotspur","Arsenal","2024-09-15T13:00:00Z","Over",2.5,1.6
+"us","totals","2c13d2c658170f1809caf0bc268382ad","soccer_epl","BetRivers",1.6,2.35,"Tottenham Hotspur","Arsenal","2024-09-15T13:00:00Z","Under",2.5,1.6
+"us","totals","2c13d2c658170f1809caf0bc268382ad","soccer_epl","Bovada",1.95,1.87,"Tottenham Hotspur","Arsenal","2024-09-15T13:00:00Z","Over",3,1.95
+"us","totals","2c13d2c658170f1809caf0bc268382ad","soccer_epl","Bovada",1.95,1.87,"Tottenham Hotspur","Arsenal","2024-09-15T13:00:00Z","Under",3,1.95
+"us","totals","2c13d2c658170f1809caf0bc268382ad","soccer_epl","MyBookie.ag",1.56,2.27,"Tottenham Hotspur","Arsenal","2024-09-15T13:00:00Z","Over",2.5,1.56
+"us","totals","2c13d2c658170f1809caf0bc268382ad","soccer_epl","MyBookie.ag",1.56,2.27,"Tottenham Hotspur","Arsenal","2024-09-15T13:00:00Z","Under",2.5,1.56
+"us","spreads","2c13d2c658170f1809caf0bc268382ad","soccer_epl","Bovada",1.95,1.87,"Tottenham Hotspur","Arsenal","2024-09-15T13:00:00Z","Arsenal",-0.5,1.95
+"us","spreads","2c13d2c658170f1809caf0bc268382ad","soccer_epl","Bovada",1.95,1.87,"Tottenham Hotspur","Arsenal","2024-09-15T13:00:00Z","Tottenham Hotspur",-0.5,1.95
+"us","spreads","2c13d2c658170f1809caf0bc268382ad","soccer_epl","MyBookie.ag",1.88,1.82,"Tottenham Hotspur","Arsenal","2024-09-15T13:00:00Z","Arsenal",-0.5,1.88
+"us","spreads","2c13d2c658170f1809caf0bc268382ad","soccer_epl","MyBookie.ag",1.88,1.82,"Tottenham Hotspur","Arsenal","2024-09-15T13:00:00Z","Tottenham Hotspur",-0.5,1.88
+"us","totals","0e7c9c96cdb69a3f7c4c03d756878c76","soccer_epl","BetRivers",2.2,1.67,"Wolverhampton Wanderers","Newcastle United","2024-09-15T15:30:00Z","Over",3.5,2.2
+"us","totals","0e7c9c96cdb69a3f7c4c03d756878c76","soccer_epl","BetRivers",2.2,1.67,"Wolverhampton Wanderers","Newcastle United","2024-09-15T15:30:00Z","Under",3.5,2.2
+"us","totals","0e7c9c96cdb69a3f7c4c03d756878c76","soccer_epl","Bovada",2,1.83,"Wolverhampton Wanderers","Newcastle United","2024-09-15T15:30:00Z","Over",3.25,2
+"us","totals","0e7c9c96cdb69a3f7c4c03d756878c76","soccer_epl","Bovada",2,1.83,"Wolverhampton Wanderers","Newcastle United","2024-09-15T15:30:00Z","Under",3.25,2
+"us","totals","0e7c9c96cdb69a3f7c4c03d756878c76","soccer_epl","MyBookie.ag",2.13,1.64,"Wolverhampton Wanderers","Newcastle United","2024-09-15T15:30:00Z","Over",3.5,2.13
+"us","totals","0e7c9c96cdb69a3f7c4c03d756878c76","soccer_epl","MyBookie.ag",2.13,1.64,"Wolverhampton Wanderers","Newcastle United","2024-09-15T15:30:00Z","Under",3.5,2.13
+"us","spreads","0e7c9c96cdb69a3f7c4c03d756878c76","soccer_epl","Bovada",1.83,2,"Wolverhampton Wanderers","Newcastle United","2024-09-15T15:30:00Z","Newcastle United",-0.25,1.83
+"us","spreads","0e7c9c96cdb69a3f7c4c03d756878c76","soccer_epl","Bovada",1.83,2,"Wolverhampton Wanderers","Newcastle United","2024-09-15T15:30:00Z","Wolverhampton Wanderers",-0.25,1.83
+"us","spreads","0e7c9c96cdb69a3f7c4c03d756878c76","soccer_epl","MyBookie.ag",2.01,1.71,"Wolverhampton Wanderers","Newcastle United","2024-09-15T15:30:00Z","Newcastle United",-0.5,2.01
+"us","spreads","0e7c9c96cdb69a3f7c4c03d756878c76","soccer_epl","MyBookie.ag",2.01,1.71,"Wolverhampton Wanderers","Newcastle United","2024-09-15T15:30:00Z","Wolverhampton Wanderers",-0.5,2.01
+"us","totals","d180bb81465a755168f5ea7003c52ed3","soccer_epl","Bovada",1.91,1.91,"West Ham United","Chelsea","2024-09-21T11:30:00Z","Over",3.25,1.91
+"us","totals","d180bb81465a755168f5ea7003c52ed3","soccer_epl","Bovada",1.91,1.91,"West Ham United","Chelsea","2024-09-21T11:30:00Z","Under",3.25,1.91
+"us","totals","d180bb81465a755168f5ea7003c52ed3","soccer_epl","MyBookie.ag",2.05,1.69,"West Ham United","Chelsea","2024-09-21T11:30:00Z","Over",3.5,2.05
+"us","totals","d180bb81465a755168f5ea7003c52ed3","soccer_epl","MyBookie.ag",2.05,1.69,"West Ham United","Chelsea","2024-09-21T11:30:00Z","Under",3.5,2.05
+"us","spreads","d180bb81465a755168f5ea7003c52ed3","soccer_epl","Bovada",1.8,2.05,"West Ham United","Chelsea","2024-09-21T11:30:00Z","Chelsea",0,1.8
+"us","spreads","d180bb81465a755168f5ea7003c52ed3","soccer_epl","Bovada",1.8,2.05,"West Ham United","Chelsea","2024-09-21T11:30:00Z","West Ham United",0,1.8
+"us","spreads","d180bb81465a755168f5ea7003c52ed3","soccer_epl","MyBookie.ag",2.26,1.57,"West Ham United","Chelsea","2024-09-21T11:30:00Z","Chelsea",-0.5,2.26
+"us","spreads","d180bb81465a755168f5ea7003c52ed3","soccer_epl","MyBookie.ag",2.26,1.57,"West Ham United","Chelsea","2024-09-21T11:30:00Z","West Ham United",-0.5,2.26
+"us","totals","a297c3d3cc56d75bfa365b6ebf4f85ae","soccer_epl","Bovada",1.98,1.85,"Aston Villa","Wolverhampton Wanderers","2024-09-21T14:00:00Z","Over",3.25,1.98
+"us","totals","a297c3d3cc56d75bfa365b6ebf4f85ae","soccer_epl","Bovada",1.98,1.85,"Aston Villa","Wolverhampton Wanderers","2024-09-21T14:00:00Z","Under",3.25,1.98
+"us","totals","a297c3d3cc56d75bfa365b6ebf4f85ae","soccer_epl","MyBookie.ag",2.13,1.64,"Aston Villa","Wolverhampton Wanderers","2024-09-21T14:00:00Z","Over",3.5,2.13
+"us","totals","a297c3d3cc56d75bfa365b6ebf4f85ae","soccer_epl","MyBookie.ag",2.13,1.64,"Aston Villa","Wolverhampton Wanderers","2024-09-21T14:00:00Z","Under",3.5,2.13
+"us","spreads","a297c3d3cc56d75bfa365b6ebf4f85ae","soccer_epl","Bovada",2.02,1.82,"Aston Villa","Wolverhampton Wanderers","2024-09-21T14:00:00Z","Aston Villa",-1.25,2.02
+"us","spreads","a297c3d3cc56d75bfa365b6ebf4f85ae","soccer_epl","Bovada",2.02,1.82,"Aston Villa","Wolverhampton Wanderers","2024-09-21T14:00:00Z","Wolverhampton Wanderers",-1.25,2.02
+"us","spreads","a297c3d3cc56d75bfa365b6ebf4f85ae","soccer_epl","MyBookie.ag",2.18,1.61,"Aston Villa","Wolverhampton Wanderers","2024-09-21T14:00:00Z","Aston Villa",-1.5,2.18
+"us","spreads","a297c3d3cc56d75bfa365b6ebf4f85ae","soccer_epl","MyBookie.ag",2.18,1.61,"Aston Villa","Wolverhampton Wanderers","2024-09-21T14:00:00Z","Wolverhampton Wanderers",-1.5,2.18
+"us","totals","d68bac257d5475047b25d0ef01a7647e","soccer_epl","Bovada",2,1.83,"Liverpool","Bournemouth","2024-09-21T14:00:00Z","Over",3.25,2
+"us","totals","d68bac257d5475047b25d0ef01a7647e","soccer_epl","Bovada",2,1.83,"Liverpool","Bournemouth","2024-09-21T14:00:00Z","Under",3.25,2
+"us","totals","d68bac257d5475047b25d0ef01a7647e","soccer_epl","MyBookie.ag",2.14,1.63,"Liverpool","Bournemouth","2024-09-21T14:00:00Z","Over",3.5,2.14
+"us","totals","d68bac257d5475047b25d0ef01a7647e","soccer_epl","MyBookie.ag",2.14,1.63,"Liverpool","Bournemouth","2024-09-21T14:00:00Z","Under",3.5,2.14
+"us","spreads","d68bac257d5475047b25d0ef01a7647e","soccer_epl","Bovada",1.87,1.95,"Liverpool","Bournemouth","2024-09-21T14:00:00Z","Bournemouth",1.5,1.87
+"us","spreads","d68bac257d5475047b25d0ef01a7647e","soccer_epl","Bovada",1.87,1.95,"Liverpool","Bournemouth","2024-09-21T14:00:00Z","Liverpool",1.5,1.87
+"us","spreads","d68bac257d5475047b25d0ef01a7647e","soccer_epl","MyBookie.ag",1.81,1.9,"Liverpool","Bournemouth","2024-09-21T14:00:00Z","Bournemouth",1.5,1.81
+"us","spreads","d68bac257d5475047b25d0ef01a7647e","soccer_epl","MyBookie.ag",1.81,1.9,"Liverpool","Bournemouth","2024-09-21T14:00:00Z","Liverpool",1.5,1.81
+"us","totals","773baa3365b285ffc1829b37d63df2f7","soccer_epl","Bovada",2,1.83,"Tottenham Hotspur","Brentford","2024-09-21T14:00:00Z","Over",3.25,2
+"us","totals","773baa3365b285ffc1829b37d63df2f7","soccer_epl","Bovada",2,1.83,"Tottenham Hotspur","Brentford","2024-09-21T14:00:00Z","Under",3.25,2
+"us","totals","773baa3365b285ffc1829b37d63df2f7","soccer_epl","MyBookie.ag",2.14,1.63,"Tottenham Hotspur","Brentford","2024-09-21T14:00:00Z","Over",3.5,2.14
+"us","totals","773baa3365b285ffc1829b37d63df2f7","soccer_epl","MyBookie.ag",2.14,1.63,"Tottenham Hotspur","Brentford","2024-09-21T14:00:00Z","Under",3.5,2.14
+"us","spreads","773baa3365b285ffc1829b37d63df2f7","soccer_epl","Bovada",1.91,1.91,"Tottenham Hotspur","Brentford","2024-09-21T14:00:00Z","Brentford",1.25,1.91
+"us","spreads","773baa3365b285ffc1829b37d63df2f7","soccer_epl","Bovada",1.91,1.91,"Tottenham Hotspur","Brentford","2024-09-21T14:00:00Z","Tottenham Hotspur",1.25,1.91
+"us","spreads","773baa3365b285ffc1829b37d63df2f7","soccer_epl","MyBookie.ag",1.68,2.07,"Tottenham Hotspur","Brentford","2024-09-21T14:00:00Z","Brentford",1.5,1.68
+"us","spreads","773baa3365b285ffc1829b37d63df2f7","soccer_epl","MyBookie.ag",1.68,2.07,"Tottenham Hotspur","Brentford","2024-09-21T14:00:00Z","Tottenham Hotspur",1.5,1.68
+"us","totals","59ac395a0b661bf1bdeea2091f06252a","soccer_epl","Bovada",1.93,1.89,"Leicester City","Everton","2024-09-21T14:00:00Z","Over",2.75,1.93
+"us","totals","59ac395a0b661bf1bdeea2091f06252a","soccer_epl","Bovada",1.93,1.89,"Leicester City","Everton","2024-09-21T14:00:00Z","Under",2.75,1.93
+"us","totals","59ac395a0b661bf1bdeea2091f06252a","soccer_epl","MyBookie.ag",1.69,2.05,"Leicester City","Everton","2024-09-21T14:00:00Z","Over",2.5,1.69
+"us","totals","59ac395a0b661bf1bdeea2091f06252a","soccer_epl","MyBookie.ag",1.69,2.05,"Leicester City","Everton","2024-09-21T14:00:00Z","Under",2.5,1.69
+"us","spreads","59ac395a0b661bf1bdeea2091f06252a","soccer_epl","Bovada",1.83,2,"Leicester City","Everton","2024-09-21T14:00:00Z","Everton",0.25,1.83
+"us","spreads","59ac395a0b661bf1bdeea2091f06252a","soccer_epl","Bovada",1.83,2,"Leicester City","Everton","2024-09-21T14:00:00Z","Leicester City",0.25,1.83
+"us","spreads","59ac395a0b661bf1bdeea2091f06252a","soccer_epl","MyBookie.ag",1.6,2.21,"Leicester City","Everton","2024-09-21T14:00:00Z","Everton",0.5,1.6
+"us","spreads","59ac395a0b661bf1bdeea2091f06252a","soccer_epl","MyBookie.ag",1.6,2.21,"Leicester City","Everton","2024-09-21T14:00:00Z","Leicester City",0.5,1.6
+"us","totals","6bd15d47f27c0bcf9ff259e782586e52","soccer_epl","Bovada",1.91,1.91,"Fulham","Newcastle United","2024-09-21T14:00:00Z","Over",3.25,1.91
+"us","totals","6bd15d47f27c0bcf9ff259e782586e52","soccer_epl","Bovada",1.91,1.91,"Fulham","Newcastle United","2024-09-21T14:00:00Z","Under",3.25,1.91
+"us","totals","6bd15d47f27c0bcf9ff259e782586e52","soccer_epl","MyBookie.ag",2.05,1.69,"Fulham","Newcastle United","2024-09-21T14:00:00Z","Over",3.5,2.05
+"us","totals","6bd15d47f27c0bcf9ff259e782586e52","soccer_epl","MyBookie.ag",2.05,1.69,"Fulham","Newcastle United","2024-09-21T14:00:00Z","Under",3.5,2.05
+"us","spreads","6bd15d47f27c0bcf9ff259e782586e52","soccer_epl","Bovada",1.87,1.95,"Fulham","Newcastle United","2024-09-21T14:00:00Z","Fulham",0.5,1.87
+"us","spreads","6bd15d47f27c0bcf9ff259e782586e52","soccer_epl","Bovada",1.87,1.95,"Fulham","Newcastle United","2024-09-21T14:00:00Z","Newcastle United",0.5,1.87
+"us","spreads","6bd15d47f27c0bcf9ff259e782586e52","soccer_epl","MyBookie.ag",1.81,1.89,"Fulham","Newcastle United","2024-09-21T14:00:00Z","Fulham",0.5,1.81
+"us","spreads","6bd15d47f27c0bcf9ff259e782586e52","soccer_epl","MyBookie.ag",1.81,1.89,"Fulham","Newcastle United","2024-09-21T14:00:00Z","Newcastle United",0.5,1.81
+"us","totals","dad7559a535bb7d8c292029361d80698","soccer_epl","Bovada",2,1.83,"Southampton","Ipswich Town","2024-09-21T14:00:00Z","Over",3,2
+"us","totals","dad7559a535bb7d8c292029361d80698","soccer_epl","Bovada",2,1.83,"Southampton","Ipswich Town","2024-09-21T14:00:00Z","Under",3,2
+"us","totals","dad7559a535bb7d8c292029361d80698","soccer_epl","MyBookie.ag",1.58,2.23,"Southampton","Ipswich Town","2024-09-21T14:00:00Z","Over",2.5,1.58
+"us","totals","dad7559a535bb7d8c292029361d80698","soccer_epl","MyBookie.ag",1.58,2.23,"Southampton","Ipswich Town","2024-09-21T14:00:00Z","Under",2.5,1.58
+"us","spreads","dad7559a535bb7d8c292029361d80698","soccer_epl","Bovada",1.82,2.02,"Southampton","Ipswich Town","2024-09-21T14:00:00Z","Ipswich Town",0.5,1.82
+"us","spreads","dad7559a535bb7d8c292029361d80698","soccer_epl","Bovada",1.82,2.02,"Southampton","Ipswich Town","2024-09-21T14:00:00Z","Southampton",0.5,1.82
+"us","spreads","dad7559a535bb7d8c292029361d80698","soccer_epl","MyBookie.ag",1.78,1.93,"Southampton","Ipswich Town","2024-09-21T14:00:00Z","Ipswich Town",0.5,1.78
+"us","spreads","dad7559a535bb7d8c292029361d80698","soccer_epl","MyBookie.ag",1.78,1.93,"Southampton","Ipswich Town","2024-09-21T14:00:00Z","Southampton",0.5,1.78
+"us","totals","b5df624052990a5853f2b7410589079a","soccer_epl","Bovada",1.91,1.91,"Crystal Palace","Manchester United","2024-09-21T16:30:00Z","Over",3,1.91
+"us","totals","b5df624052990a5853f2b7410589079a","soccer_epl","Bovada",1.91,1.91,"Crystal Palace","Manchester United","2024-09-21T16:30:00Z","Under",3,1.91
+"us","totals","b5df624052990a5853f2b7410589079a","soccer_epl","MyBookie.ag",1.55,2.31,"Crystal Palace","Manchester United","2024-09-21T16:30:00Z","Over",2.5,1.55
+"us","totals","b5df624052990a5853f2b7410589079a","soccer_epl","MyBookie.ag",1.55,2.31,"Crystal Palace","Manchester United","2024-09-21T16:30:00Z","Under",2.5,1.55
+"us","spreads","b5df624052990a5853f2b7410589079a","soccer_epl","Bovada",2.05,1.8,"Crystal Palace","Manchester United","2024-09-21T16:30:00Z","Crystal Palace",0,2.05
+"us","spreads","b5df624052990a5853f2b7410589079a","soccer_epl","Bovada",2.05,1.8,"Crystal Palace","Manchester United","2024-09-21T16:30:00Z","Manchester United",0,2.05
+"us","spreads","b5df624052990a5853f2b7410589079a","soccer_epl","MyBookie.ag",1.57,2.26,"Crystal Palace","Manchester United","2024-09-21T16:30:00Z","Crystal Palace",0.5,1.57
+"us","spreads","b5df624052990a5853f2b7410589079a","soccer_epl","MyBookie.ag",1.57,2.26,"Crystal Palace","Manchester United","2024-09-21T16:30:00Z","Manchester United",0.5,1.57
+"us","totals","8c2b434c9afe6fcc11232f7e549d9e20","soccer_epl","Bovada",1.98,1.85,"Brighton and Hove Albion","Nottingham Forest","2024-09-22T13:00:00Z","Over",3,1.98
+"us","totals","8c2b434c9afe6fcc11232f7e549d9e20","soccer_epl","Bovada",1.98,1.85,"Brighton and Hove Albion","Nottingham Forest","2024-09-22T13:00:00Z","Under",3,1.98
+"us","totals","8c2b434c9afe6fcc11232f7e549d9e20","soccer_epl","MyBookie.ag",1.58,2.23,"Brighton and Hove Albion","Nottingham Forest","2024-09-22T13:00:00Z","Over",2.5,1.58
+"us","totals","8c2b434c9afe6fcc11232f7e549d9e20","soccer_epl","MyBookie.ag",1.58,2.23,"Brighton and Hove Albion","Nottingham Forest","2024-09-22T13:00:00Z","Under",2.5,1.58
+"us","spreads","8c2b434c9afe6fcc11232f7e549d9e20","soccer_epl","Bovada",1.82,2.02,"Brighton and Hove Albion","Nottingham Forest","2024-09-22T13:00:00Z","Brighton and Hove Albion",-0.75,1.82
+"us","spreads","8c2b434c9afe6fcc11232f7e549d9e20","soccer_epl","Bovada",1.82,2.02,"Brighton and Hove Albion","Nottingham Forest","2024-09-22T13:00:00Z","Nottingham Forest",-0.75,1.82
+"us","spreads","8c2b434c9afe6fcc11232f7e549d9e20","soccer_epl","MyBookie.ag",1.61,2.18,"Brighton and Hove Albion","Nottingham Forest","2024-09-22T13:00:00Z","Brighton and Hove Albion",-0.5,1.61
+"us","spreads","8c2b434c9afe6fcc11232f7e549d9e20","soccer_epl","MyBookie.ag",1.61,2.18,"Brighton and Hove Albion","Nottingham Forest","2024-09-22T13:00:00Z","Nottingham Forest",-0.5,1.61
+"us","totals","f07c5625e88dedb3c937fa1ff41bdda4","soccer_epl","Bovada",1.93,1.89,"Manchester City","Arsenal","2024-09-22T15:30:00Z","Over",2.75,1.93
+"us","totals","f07c5625e88dedb3c937fa1ff41bdda4","soccer_epl","Bovada",1.93,1.89,"Manchester City","Arsenal","2024-09-22T15:30:00Z","Under",2.75,1.93
+"us","totals","f07c5625e88dedb3c937fa1ff41bdda4","soccer_epl","MyBookie.ag",1.69,2.05,"Manchester City","Arsenal","2024-09-22T15:30:00Z","Over",2.5,1.69
+"us","totals","f07c5625e88dedb3c937fa1ff41bdda4","soccer_epl","MyBookie.ag",1.69,2.05,"Manchester City","Arsenal","2024-09-22T15:30:00Z","Under",2.5,1.69
+"us","spreads","f07c5625e88dedb3c937fa1ff41bdda4","soccer_epl","Bovada",1.95,1.87,"Manchester City","Arsenal","2024-09-22T15:30:00Z","Arsenal",0.5,1.95
+"us","spreads","f07c5625e88dedb3c937fa1ff41bdda4","soccer_epl","Bovada",1.95,1.87,"Manchester City","Arsenal","2024-09-22T15:30:00Z","Manchester City",0.5,1.95
+"us","spreads","f07c5625e88dedb3c937fa1ff41bdda4","soccer_epl","MyBookie.ag",1.9,1.81,"Manchester City","Arsenal","2024-09-22T15:30:00Z","Arsenal",0.5,1.9
+"us","spreads","f07c5625e88dedb3c937fa1ff41bdda4","soccer_epl","MyBookie.ag",1.9,1.81,"Manchester City","Arsenal","2024-09-22T15:30:00Z","Manchester City",0.5,1.9

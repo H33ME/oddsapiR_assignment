@@ -1,0 +1,219 @@
+id,sport_key,sport_title,commence_time,home_team,away_team,bookmaker_key,bookmaker,bookmaker_last_update,market_key,market_last_update,outcomes_name,outcomes_price,outcomes_point
+763235c932169620bd3d90dfef7d8403,soccer_epl,EPL,2024-09-28T11:30:00Z,Newcastle United,Manchester City,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,2.16,3.5
+763235c932169620bd3d90dfef7d8403,soccer_epl,EPL,2024-09-28T11:30:00Z,Newcastle United,Manchester City,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,1.65,3.5
+763235c932169620bd3d90dfef7d8403,soccer_epl,EPL,2024-09-28T11:30:00Z,Newcastle United,Manchester City,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,2.15,3.5
+763235c932169620bd3d90dfef7d8403,soccer_epl,EPL,2024-09-28T11:30:00Z,Newcastle United,Manchester City,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,1.62,3.5
+763235c932169620bd3d90dfef7d8403,soccer_epl,EPL,2024-09-28T11:30:00Z,Newcastle United,Manchester City,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,2,3.25
+763235c932169620bd3d90dfef7d8403,soccer_epl,EPL,2024-09-28T11:30:00Z,Newcastle United,Manchester City,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.83,3.25
+763235c932169620bd3d90dfef7d8403,soccer_epl,EPL,2024-09-28T11:30:00Z,Newcastle United,Manchester City,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2.15,3.5
+763235c932169620bd3d90dfef7d8403,soccer_epl,EPL,2024-09-28T11:30:00Z,Newcastle United,Manchester City,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.7,3.5
+763235c932169620bd3d90dfef7d8403,soccer_epl,EPL,2024-09-28T11:30:00Z,Newcastle United,Manchester City,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Over,2.01,3.25
+763235c932169620bd3d90dfef7d8403,soccer_epl,EPL,2024-09-28T11:30:00Z,Newcastle United,Manchester City,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Under,1.85,3.25
+763235c932169620bd3d90dfef7d8403,soccer_epl,EPL,2024-09-28T11:30:00Z,Newcastle United,Manchester City,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2.01,3.25
+763235c932169620bd3d90dfef7d8403,soccer_epl,EPL,2024-09-28T11:30:00Z,Newcastle United,Manchester City,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.85,3.25
+763235c932169620bd3d90dfef7d8403,soccer_epl,EPL,2024-09-28T11:30:00Z,Newcastle United,Manchester City,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.74,3
+763235c932169620bd3d90dfef7d8403,soccer_epl,EPL,2024-09-28T11:30:00Z,Newcastle United,Manchester City,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.15,3
+e4339a542fd5b140d60405108bf2781d,soccer_epl,EPL,2024-09-28T14:00:00Z,Arsenal,Leicester City,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,2.29,3.5
+e4339a542fd5b140d60405108bf2781d,soccer_epl,EPL,2024-09-28T14:00:00Z,Arsenal,Leicester City,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,1.58,3.5
+e4339a542fd5b140d60405108bf2781d,soccer_epl,EPL,2024-09-28T14:00:00Z,Arsenal,Leicester City,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.85,3
+e4339a542fd5b140d60405108bf2781d,soccer_epl,EPL,2024-09-28T14:00:00Z,Arsenal,Leicester City,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.98,3
+e4339a542fd5b140d60405108bf2781d,soccer_epl,EPL,2024-09-28T14:00:00Z,Arsenal,Leicester City,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,2.25,3.5
+e4339a542fd5b140d60405108bf2781d,soccer_epl,EPL,2024-09-28T14:00:00Z,Arsenal,Leicester City,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,1.57,3.5
+e4339a542fd5b140d60405108bf2781d,soccer_epl,EPL,2024-09-28T14:00:00Z,Arsenal,Leicester City,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2.28,3.5
+e4339a542fd5b140d60405108bf2781d,soccer_epl,EPL,2024-09-28T14:00:00Z,Arsenal,Leicester City,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.63,3.5
+e4339a542fd5b140d60405108bf2781d,soccer_epl,EPL,2024-09-28T14:00:00Z,Arsenal,Leicester City,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Over,2.07,3.25
+e4339a542fd5b140d60405108bf2781d,soccer_epl,EPL,2024-09-28T14:00:00Z,Arsenal,Leicester City,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Under,1.81,3.25
+e4339a542fd5b140d60405108bf2781d,soccer_epl,EPL,2024-09-28T14:00:00Z,Arsenal,Leicester City,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2.07,3.25
+e4339a542fd5b140d60405108bf2781d,soccer_epl,EPL,2024-09-28T14:00:00Z,Arsenal,Leicester City,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.81,3.25
+e4339a542fd5b140d60405108bf2781d,soccer_epl,EPL,2024-09-28T14:00:00Z,Arsenal,Leicester City,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.8,3
+e4339a542fd5b140d60405108bf2781d,soccer_epl,EPL,2024-09-28T14:00:00Z,Arsenal,Leicester City,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.05,3
+4c39ee4d0a8356282f5529e0b336202f,soccer_epl,EPL,2024-09-28T14:00:00Z,Brentford,West Ham United,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,1.68,2.5
+4c39ee4d0a8356282f5529e0b336202f,soccer_epl,EPL,2024-09-28T14:00:00Z,Brentford,West Ham United,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,2.12,2.5
+4c39ee4d0a8356282f5529e0b336202f,soccer_epl,EPL,2024-09-28T14:00:00Z,Brentford,West Ham United,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,1.62,2.5
+4c39ee4d0a8356282f5529e0b336202f,soccer_epl,EPL,2024-09-28T14:00:00Z,Brentford,West Ham United,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,2.15,2.5
+4c39ee4d0a8356282f5529e0b336202f,soccer_epl,EPL,2024-09-28T14:00:00Z,Brentford,West Ham United,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.85,2.75
+4c39ee4d0a8356282f5529e0b336202f,soccer_epl,EPL,2024-09-28T14:00:00Z,Brentford,West Ham United,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.98,2.75
+4c39ee4d0a8356282f5529e0b336202f,soccer_epl,EPL,2024-09-28T14:00:00Z,Brentford,West Ham United,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.66,2.5
+4c39ee4d0a8356282f5529e0b336202f,soccer_epl,EPL,2024-09-28T14:00:00Z,Brentford,West Ham United,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.23,2.5
+4c39ee4d0a8356282f5529e0b336202f,soccer_epl,EPL,2024-09-28T14:00:00Z,Brentford,West Ham United,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Over,1.83,2.75
+4c39ee4d0a8356282f5529e0b336202f,soccer_epl,EPL,2024-09-28T14:00:00Z,Brentford,West Ham United,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Under,2.05,2.75
+4c39ee4d0a8356282f5529e0b336202f,soccer_epl,EPL,2024-09-28T14:00:00Z,Brentford,West Ham United,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.83,2.75
+4c39ee4d0a8356282f5529e0b336202f,soccer_epl,EPL,2024-09-28T14:00:00Z,Brentford,West Ham United,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.05,2.75
+4c39ee4d0a8356282f5529e0b336202f,soccer_epl,EPL,2024-09-28T14:00:00Z,Brentford,West Ham United,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2.1,3
+4c39ee4d0a8356282f5529e0b336202f,soccer_epl,EPL,2024-09-28T14:00:00Z,Brentford,West Ham United,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.77,3
+289642780c979c8b4b16d5a02edc5b5d,soccer_epl,EPL,2024-09-28T14:00:00Z,Chelsea,Brighton and Hove Albion,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,2.17,3.5
+289642780c979c8b4b16d5a02edc5b5d,soccer_epl,EPL,2024-09-28T14:00:00Z,Chelsea,Brighton and Hove Albion,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,1.64,3.5
+289642780c979c8b4b16d5a02edc5b5d,soccer_epl,EPL,2024-09-28T14:00:00Z,Chelsea,Brighton and Hove Albion,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,2,3.25
+289642780c979c8b4b16d5a02edc5b5d,soccer_epl,EPL,2024-09-28T14:00:00Z,Chelsea,Brighton and Hove Albion,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.83,3.25
+289642780c979c8b4b16d5a02edc5b5d,soccer_epl,EPL,2024-09-28T14:00:00Z,Chelsea,Brighton and Hove Albion,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,2.15,3.5
+289642780c979c8b4b16d5a02edc5b5d,soccer_epl,EPL,2024-09-28T14:00:00Z,Chelsea,Brighton and Hove Albion,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,1.62,3.5
+289642780c979c8b4b16d5a02edc5b5d,soccer_epl,EPL,2024-09-28T14:00:00Z,Chelsea,Brighton and Hove Albion,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2.33,3.5
+289642780c979c8b4b16d5a02edc5b5d,soccer_epl,EPL,2024-09-28T14:00:00Z,Chelsea,Brighton and Hove Albion,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.61,3.5
+289642780c979c8b4b16d5a02edc5b5d,soccer_epl,EPL,2024-09-28T14:00:00Z,Chelsea,Brighton and Hove Albion,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Over,1.81,3
+289642780c979c8b4b16d5a02edc5b5d,soccer_epl,EPL,2024-09-28T14:00:00Z,Chelsea,Brighton and Hove Albion,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Under,2.07,3
+289642780c979c8b4b16d5a02edc5b5d,soccer_epl,EPL,2024-09-28T14:00:00Z,Chelsea,Brighton and Hove Albion,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.81,3
+289642780c979c8b4b16d5a02edc5b5d,soccer_epl,EPL,2024-09-28T14:00:00Z,Chelsea,Brighton and Hove Albion,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.07,3
+289642780c979c8b4b16d5a02edc5b5d,soccer_epl,EPL,2024-09-28T14:00:00Z,Chelsea,Brighton and Hove Albion,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.8,3
+289642780c979c8b4b16d5a02edc5b5d,soccer_epl,EPL,2024-09-28T14:00:00Z,Chelsea,Brighton and Hove Albion,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.05,3
+0b3c638fab2a9895f20b41dc87c2571c,soccer_epl,EPL,2024-09-28T14:00:00Z,Everton,Crystal Palace,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,1.87,2.5
+0b3c638fab2a9895f20b41dc87c2571c,soccer_epl,EPL,2024-09-28T14:00:00Z,Everton,Crystal Palace,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,1.87,2.5
+0b3c638fab2a9895f20b41dc87c2571c,soccer_epl,EPL,2024-09-28T14:00:00Z,Everton,Crystal Palace,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.91,2.5
+0b3c638fab2a9895f20b41dc87c2571c,soccer_epl,EPL,2024-09-28T14:00:00Z,Everton,Crystal Palace,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.91,2.5
+0b3c638fab2a9895f20b41dc87c2571c,soccer_epl,EPL,2024-09-28T14:00:00Z,Everton,Crystal Palace,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,1.83,2.5
+0b3c638fab2a9895f20b41dc87c2571c,soccer_epl,EPL,2024-09-28T14:00:00Z,Everton,Crystal Palace,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,1.87,2.5
+0b3c638fab2a9895f20b41dc87c2571c,soccer_epl,EPL,2024-09-28T14:00:00Z,Everton,Crystal Palace,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.87,2.5
+0b3c638fab2a9895f20b41dc87c2571c,soccer_epl,EPL,2024-09-28T14:00:00Z,Everton,Crystal Palace,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.93,2.5
+0b3c638fab2a9895f20b41dc87c2571c,soccer_epl,EPL,2024-09-28T14:00:00Z,Everton,Crystal Palace,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Over,1.96,2.5
+0b3c638fab2a9895f20b41dc87c2571c,soccer_epl,EPL,2024-09-28T14:00:00Z,Everton,Crystal Palace,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Under,1.89,2.5
+0b3c638fab2a9895f20b41dc87c2571c,soccer_epl,EPL,2024-09-28T14:00:00Z,Everton,Crystal Palace,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.96,2.5
+0b3c638fab2a9895f20b41dc87c2571c,soccer_epl,EPL,2024-09-28T14:00:00Z,Everton,Crystal Palace,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.89,2.5
+0b3c638fab2a9895f20b41dc87c2571c,soccer_epl,EPL,2024-09-28T14:00:00Z,Everton,Crystal Palace,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.83,2.5
+0b3c638fab2a9895f20b41dc87c2571c,soccer_epl,EPL,2024-09-28T14:00:00Z,Everton,Crystal Palace,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2,2.5
+b9b9640830890bf09433354bdd30b8ab,soccer_epl,EPL,2024-09-28T14:00:00Z,Nottingham Forest,Fulham,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,1.9,2.5
+b9b9640830890bf09433354bdd30b8ab,soccer_epl,EPL,2024-09-28T14:00:00Z,Nottingham Forest,Fulham,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,1.84,2.5
+b9b9640830890bf09433354bdd30b8ab,soccer_epl,EPL,2024-09-28T14:00:00Z,Nottingham Forest,Fulham,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,1.91,2.5
+b9b9640830890bf09433354bdd30b8ab,soccer_epl,EPL,2024-09-28T14:00:00Z,Nottingham Forest,Fulham,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,1.77,2.5
+b9b9640830890bf09433354bdd30b8ab,soccer_epl,EPL,2024-09-28T14:00:00Z,Nottingham Forest,Fulham,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.95,2.5
+b9b9640830890bf09433354bdd30b8ab,soccer_epl,EPL,2024-09-28T14:00:00Z,Nottingham Forest,Fulham,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.87,2.5
+b9b9640830890bf09433354bdd30b8ab,soccer_epl,EPL,2024-09-28T14:00:00Z,Nottingham Forest,Fulham,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2,2.5
+b9b9640830890bf09433354bdd30b8ab,soccer_epl,EPL,2024-09-28T14:00:00Z,Nottingham Forest,Fulham,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.81,2.5
+b9b9640830890bf09433354bdd30b8ab,soccer_epl,EPL,2024-09-28T14:00:00Z,Nottingham Forest,Fulham,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Over,2,2.5
+b9b9640830890bf09433354bdd30b8ab,soccer_epl,EPL,2024-09-28T14:00:00Z,Nottingham Forest,Fulham,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Under,1.86,2.5
+b9b9640830890bf09433354bdd30b8ab,soccer_epl,EPL,2024-09-28T14:00:00Z,Nottingham Forest,Fulham,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2,2.5
+b9b9640830890bf09433354bdd30b8ab,soccer_epl,EPL,2024-09-28T14:00:00Z,Nottingham Forest,Fulham,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.86,2.5
+b9b9640830890bf09433354bdd30b8ab,soccer_epl,EPL,2024-09-28T14:00:00Z,Nottingham Forest,Fulham,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.96,2.5
+b9b9640830890bf09433354bdd30b8ab,soccer_epl,EPL,2024-09-28T14:00:00Z,Nottingham Forest,Fulham,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.86,2.5
+16ed8f360d7e507c86231d810cbf2e90,soccer_epl,EPL,2024-09-28T16:30:00Z,Wolverhampton Wanderers,Liverpool,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,2.07,3.5
+16ed8f360d7e507c86231d810cbf2e90,soccer_epl,EPL,2024-09-28T16:30:00Z,Wolverhampton Wanderers,Liverpool,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,1.7,3.5
+16ed8f360d7e507c86231d810cbf2e90,soccer_epl,EPL,2024-09-28T16:30:00Z,Wolverhampton Wanderers,Liverpool,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.89,3.25
+16ed8f360d7e507c86231d810cbf2e90,soccer_epl,EPL,2024-09-28T16:30:00Z,Wolverhampton Wanderers,Liverpool,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.93,3.25
+16ed8f360d7e507c86231d810cbf2e90,soccer_epl,EPL,2024-09-28T16:30:00Z,Wolverhampton Wanderers,Liverpool,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2.08,3.5
+16ed8f360d7e507c86231d810cbf2e90,soccer_epl,EPL,2024-09-28T16:30:00Z,Wolverhampton Wanderers,Liverpool,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.75,3.5
+16ed8f360d7e507c86231d810cbf2e90,soccer_epl,EPL,2024-09-28T16:30:00Z,Wolverhampton Wanderers,Liverpool,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Over,1.93,3.25
+16ed8f360d7e507c86231d810cbf2e90,soccer_epl,EPL,2024-09-28T16:30:00Z,Wolverhampton Wanderers,Liverpool,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Under,1.92,3.25
+16ed8f360d7e507c86231d810cbf2e90,soccer_epl,EPL,2024-09-28T16:30:00Z,Wolverhampton Wanderers,Liverpool,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.94,3.25
+16ed8f360d7e507c86231d810cbf2e90,soccer_epl,EPL,2024-09-28T16:30:00Z,Wolverhampton Wanderers,Liverpool,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.92,3.25
+16ed8f360d7e507c86231d810cbf2e90,soccer_epl,EPL,2024-09-28T16:30:00Z,Wolverhampton Wanderers,Liverpool,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2.19,3.5
+16ed8f360d7e507c86231d810cbf2e90,soccer_epl,EPL,2024-09-28T16:30:00Z,Wolverhampton Wanderers,Liverpool,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.72,3.5
+894eee87683135b4828d1182e64b7cc6,soccer_epl,EPL,2024-09-29T13:00:00Z,Ipswich Town,Aston Villa,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,1.7,2.5
+894eee87683135b4828d1182e64b7cc6,soccer_epl,EPL,2024-09-29T13:00:00Z,Ipswich Town,Aston Villa,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,2.07,2.5
+894eee87683135b4828d1182e64b7cc6,soccer_epl,EPL,2024-09-29T13:00:00Z,Ipswich Town,Aston Villa,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,1.69,2.5
+894eee87683135b4828d1182e64b7cc6,soccer_epl,EPL,2024-09-29T13:00:00Z,Ipswich Town,Aston Villa,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,2.05,2.5
+894eee87683135b4828d1182e64b7cc6,soccer_epl,EPL,2024-09-29T13:00:00Z,Ipswich Town,Aston Villa,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.93,2.75
+894eee87683135b4828d1182e64b7cc6,soccer_epl,EPL,2024-09-29T13:00:00Z,Ipswich Town,Aston Villa,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.89,2.75
+894eee87683135b4828d1182e64b7cc6,soccer_epl,EPL,2024-09-29T13:00:00Z,Ipswich Town,Aston Villa,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.68,2.5
+894eee87683135b4828d1182e64b7cc6,soccer_epl,EPL,2024-09-29T13:00:00Z,Ipswich Town,Aston Villa,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.17,2.5
+894eee87683135b4828d1182e64b7cc6,soccer_epl,EPL,2024-09-29T13:00:00Z,Ipswich Town,Aston Villa,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Over,1.91,2.75
+894eee87683135b4828d1182e64b7cc6,soccer_epl,EPL,2024-09-29T13:00:00Z,Ipswich Town,Aston Villa,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Under,1.94,2.75
+894eee87683135b4828d1182e64b7cc6,soccer_epl,EPL,2024-09-29T13:00:00Z,Ipswich Town,Aston Villa,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.91,2.75
+894eee87683135b4828d1182e64b7cc6,soccer_epl,EPL,2024-09-29T13:00:00Z,Ipswich Town,Aston Villa,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.94,2.75
+894eee87683135b4828d1182e64b7cc6,soccer_epl,EPL,2024-09-29T13:00:00Z,Ipswich Town,Aston Villa,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.74,2.5
+894eee87683135b4828d1182e64b7cc6,soccer_epl,EPL,2024-09-29T13:00:00Z,Ipswich Town,Aston Villa,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.15,2.5
+d5a426bdd3e6e6441d24d2e801540198,soccer_epl,EPL,2024-09-29T15:30:00Z,Manchester United,Tottenham Hotspur,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,2,3.5
+d5a426bdd3e6e6441d24d2e801540198,soccer_epl,EPL,2024-09-29T15:30:00Z,Manchester United,Tottenham Hotspur,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,1.76,3.5
+d5a426bdd3e6e6441d24d2e801540198,soccer_epl,EPL,2024-09-29T15:30:00Z,Manchester United,Tottenham Hotspur,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,2,3.5
+d5a426bdd3e6e6441d24d2e801540198,soccer_epl,EPL,2024-09-29T15:30:00Z,Manchester United,Tottenham Hotspur,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,1.71,3.5
+d5a426bdd3e6e6441d24d2e801540198,soccer_epl,EPL,2024-09-29T15:30:00Z,Manchester United,Tottenham Hotspur,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.85,3.25
+d5a426bdd3e6e6441d24d2e801540198,soccer_epl,EPL,2024-09-29T15:30:00Z,Manchester United,Tottenham Hotspur,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.98,3.25
+d5a426bdd3e6e6441d24d2e801540198,soccer_epl,EPL,2024-09-29T15:30:00Z,Manchester United,Tottenham Hotspur,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2.08,3.5
+d5a426bdd3e6e6441d24d2e801540198,soccer_epl,EPL,2024-09-29T15:30:00Z,Manchester United,Tottenham Hotspur,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.75,3.5
+d5a426bdd3e6e6441d24d2e801540198,soccer_epl,EPL,2024-09-29T15:30:00Z,Manchester United,Tottenham Hotspur,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Over,1.87,3.25
+d5a426bdd3e6e6441d24d2e801540198,soccer_epl,EPL,2024-09-29T15:30:00Z,Manchester United,Tottenham Hotspur,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Under,1.99,3.25
+d5a426bdd3e6e6441d24d2e801540198,soccer_epl,EPL,2024-09-29T15:30:00Z,Manchester United,Tottenham Hotspur,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.87,3.25
+d5a426bdd3e6e6441d24d2e801540198,soccer_epl,EPL,2024-09-29T15:30:00Z,Manchester United,Tottenham Hotspur,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.99,3.25
+d5a426bdd3e6e6441d24d2e801540198,soccer_epl,EPL,2024-09-29T15:30:00Z,Manchester United,Tottenham Hotspur,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2,3.5
+d5a426bdd3e6e6441d24d2e801540198,soccer_epl,EPL,2024-09-29T15:30:00Z,Manchester United,Tottenham Hotspur,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.83,3.5
+51e76797329067f33bf64e7bb9ca7e45,soccer_epl,EPL,2024-09-30T19:00:00Z,Bournemouth,Southampton,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,2.25,3.5
+51e76797329067f33bf64e7bb9ca7e45,soccer_epl,EPL,2024-09-30T19:00:00Z,Bournemouth,Southampton,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,1.57,3.5
+51e76797329067f33bf64e7bb9ca7e45,soccer_epl,EPL,2024-09-30T19:00:00Z,Bournemouth,Southampton,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,2.14,3.5
+51e76797329067f33bf64e7bb9ca7e45,soccer_epl,EPL,2024-09-30T19:00:00Z,Bournemouth,Southampton,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,1.63,3.5
+51e76797329067f33bf64e7bb9ca7e45,soccer_epl,EPL,2024-09-30T19:00:00Z,Bournemouth,Southampton,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,2,3.25
+51e76797329067f33bf64e7bb9ca7e45,soccer_epl,EPL,2024-09-30T19:00:00Z,Bournemouth,Southampton,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.83,3.25
+51e76797329067f33bf64e7bb9ca7e45,soccer_epl,EPL,2024-09-30T19:00:00Z,Bournemouth,Southampton,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2.25,3.5
+51e76797329067f33bf64e7bb9ca7e45,soccer_epl,EPL,2024-09-30T19:00:00Z,Bournemouth,Southampton,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.64,3.5
+51e76797329067f33bf64e7bb9ca7e45,soccer_epl,EPL,2024-09-30T19:00:00Z,Bournemouth,Southampton,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Over,1.83,3
+51e76797329067f33bf64e7bb9ca7e45,soccer_epl,EPL,2024-09-30T19:00:00Z,Bournemouth,Southampton,betonlineag,BetOnline.ag,2024-09-27T17:56:21Z,totals,2024-09-27T17:56:21Z,Under,2.05,3
+51e76797329067f33bf64e7bb9ca7e45,soccer_epl,EPL,2024-09-30T19:00:00Z,Bournemouth,Southampton,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.83,3
+51e76797329067f33bf64e7bb9ca7e45,soccer_epl,EPL,2024-09-30T19:00:00Z,Bournemouth,Southampton,lowvig,LowVig.ag,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.05,3
+51e76797329067f33bf64e7bb9ca7e45,soccer_epl,EPL,2024-09-30T19:00:00Z,Bournemouth,Southampton,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.81,3
+51e76797329067f33bf64e7bb9ca7e45,soccer_epl,EPL,2024-09-30T19:00:00Z,Bournemouth,Southampton,betus,BetUS,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.03,3
+bec60cae666ba284a1d6716ad8278c2d,soccer_epl,EPL,2024-10-05T11:30:00Z,Crystal Palace,Liverpool,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,2.25,3.5
+bec60cae666ba284a1d6716ad8278c2d,soccer_epl,EPL,2024-10-05T11:30:00Z,Crystal Palace,Liverpool,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,1.57,3.5
+bec60cae666ba284a1d6716ad8278c2d,soccer_epl,EPL,2024-10-05T11:30:00Z,Crystal Palace,Liverpool,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,2.25,3.5
+bec60cae666ba284a1d6716ad8278c2d,soccer_epl,EPL,2024-10-05T11:30:00Z,Crystal Palace,Liverpool,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,1.57,3.5
+bec60cae666ba284a1d6716ad8278c2d,soccer_epl,EPL,2024-10-05T11:30:00Z,Crystal Palace,Liverpool,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.85,3
+bec60cae666ba284a1d6716ad8278c2d,soccer_epl,EPL,2024-10-05T11:30:00Z,Crystal Palace,Liverpool,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.98,3
+bec60cae666ba284a1d6716ad8278c2d,soccer_epl,EPL,2024-10-05T11:30:00Z,Crystal Palace,Liverpool,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2.4,3.5
+bec60cae666ba284a1d6716ad8278c2d,soccer_epl,EPL,2024-10-05T11:30:00Z,Crystal Palace,Liverpool,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.56,3.5
+6d875c1a63ea40ba2550d0cd2a63a99c,soccer_epl,EPL,2024-10-05T14:00:00Z,Arsenal,Southampton,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,1.96,3.5
+6d875c1a63ea40ba2550d0cd2a63a99c,soccer_epl,EPL,2024-10-05T14:00:00Z,Arsenal,Southampton,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,1.76,3.5
+6d875c1a63ea40ba2550d0cd2a63a99c,soccer_epl,EPL,2024-10-05T14:00:00Z,Arsenal,Southampton,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.82,3.25
+6d875c1a63ea40ba2550d0cd2a63a99c,soccer_epl,EPL,2024-10-05T14:00:00Z,Arsenal,Southampton,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,2.02,3.25
+6d875c1a63ea40ba2550d0cd2a63a99c,soccer_epl,EPL,2024-10-05T14:00:00Z,Arsenal,Southampton,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,1.95,3.5
+6d875c1a63ea40ba2550d0cd2a63a99c,soccer_epl,EPL,2024-10-05T14:00:00Z,Arsenal,Southampton,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,1.74,3.5
+6d875c1a63ea40ba2550d0cd2a63a99c,soccer_epl,EPL,2024-10-05T14:00:00Z,Arsenal,Southampton,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2.08,3.5
+6d875c1a63ea40ba2550d0cd2a63a99c,soccer_epl,EPL,2024-10-05T14:00:00Z,Arsenal,Southampton,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.74,3.5
+de3b11a0195a7530b5dee058331eeae6,soccer_epl,EPL,2024-10-05T14:00:00Z,Leicester City,Bournemouth,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,1.58,2.5
+de3b11a0195a7530b5dee058331eeae6,soccer_epl,EPL,2024-10-05T14:00:00Z,Leicester City,Bournemouth,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,2.22,2.5
+de3b11a0195a7530b5dee058331eeae6,soccer_epl,EPL,2024-10-05T14:00:00Z,Leicester City,Bournemouth,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,2,3
+de3b11a0195a7530b5dee058331eeae6,soccer_epl,EPL,2024-10-05T14:00:00Z,Leicester City,Bournemouth,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.83,3
+de3b11a0195a7530b5dee058331eeae6,soccer_epl,EPL,2024-10-05T14:00:00Z,Leicester City,Bournemouth,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,1.61,2.5
+de3b11a0195a7530b5dee058331eeae6,soccer_epl,EPL,2024-10-05T14:00:00Z,Leicester City,Bournemouth,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,2.2,2.5
+de3b11a0195a7530b5dee058331eeae6,soccer_epl,EPL,2024-10-05T14:00:00Z,Leicester City,Bournemouth,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.61,2.5
+de3b11a0195a7530b5dee058331eeae6,soccer_epl,EPL,2024-10-05T14:00:00Z,Leicester City,Bournemouth,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.32,2.5
+e735e9541e74ab97301e2e2201358186,soccer_epl,EPL,2024-10-05T14:00:00Z,Brentford,Wolverhampton Wanderers,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,1.74,2.5
+e735e9541e74ab97301e2e2201358186,soccer_epl,EPL,2024-10-05T14:00:00Z,Brentford,Wolverhampton Wanderers,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,1.97,2.5
+e735e9541e74ab97301e2e2201358186,soccer_epl,EPL,2024-10-05T14:00:00Z,Brentford,Wolverhampton Wanderers,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,2,2.75
+e735e9541e74ab97301e2e2201358186,soccer_epl,EPL,2024-10-05T14:00:00Z,Brentford,Wolverhampton Wanderers,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.83,2.75
+e735e9541e74ab97301e2e2201358186,soccer_epl,EPL,2024-10-05T14:00:00Z,Brentford,Wolverhampton Wanderers,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,1.69,2.5
+e735e9541e74ab97301e2e2201358186,soccer_epl,EPL,2024-10-05T14:00:00Z,Brentford,Wolverhampton Wanderers,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,2.05,2.5
+e735e9541e74ab97301e2e2201358186,soccer_epl,EPL,2024-10-05T14:00:00Z,Brentford,Wolverhampton Wanderers,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.75,2.5
+e735e9541e74ab97301e2e2201358186,soccer_epl,EPL,2024-10-05T14:00:00Z,Brentford,Wolverhampton Wanderers,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.08,2.5
+7c573f2b39c5122801b1a7e7d98e17c6,soccer_epl,EPL,2024-10-05T14:00:00Z,Manchester City,Fulham,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,1.96,3.5
+7c573f2b39c5122801b1a7e7d98e17c6,soccer_epl,EPL,2024-10-05T14:00:00Z,Manchester City,Fulham,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,1.76,3.5
+7c573f2b39c5122801b1a7e7d98e17c6,soccer_epl,EPL,2024-10-05T14:00:00Z,Manchester City,Fulham,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.82,3.25
+7c573f2b39c5122801b1a7e7d98e17c6,soccer_epl,EPL,2024-10-05T14:00:00Z,Manchester City,Fulham,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,2.02,3.25
+7c573f2b39c5122801b1a7e7d98e17c6,soccer_epl,EPL,2024-10-05T14:00:00Z,Manchester City,Fulham,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,2,3.5
+7c573f2b39c5122801b1a7e7d98e17c6,soccer_epl,EPL,2024-10-05T14:00:00Z,Manchester City,Fulham,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,1.74,3.5
+7c573f2b39c5122801b1a7e7d98e17c6,soccer_epl,EPL,2024-10-05T14:00:00Z,Manchester City,Fulham,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.94,3.5
+7c573f2b39c5122801b1a7e7d98e17c6,soccer_epl,EPL,2024-10-05T14:00:00Z,Manchester City,Fulham,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.85,3.5
+3a65b350186d7d31b94a79490e77712b,soccer_epl,EPL,2024-10-05T14:00:00Z,West Ham United,Ipswich Town,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,1.63,2.5
+3a65b350186d7d31b94a79490e77712b,soccer_epl,EPL,2024-10-05T14:00:00Z,West Ham United,Ipswich Town,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,2.14,2.5
+3a65b350186d7d31b94a79490e77712b,soccer_epl,EPL,2024-10-05T14:00:00Z,West Ham United,Ipswich Town,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.83,2.75
+3a65b350186d7d31b94a79490e77712b,soccer_epl,EPL,2024-10-05T14:00:00Z,West Ham United,Ipswich Town,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,2,2.75
+3a65b350186d7d31b94a79490e77712b,soccer_epl,EPL,2024-10-05T14:00:00Z,West Ham United,Ipswich Town,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,1.62,2.5
+3a65b350186d7d31b94a79490e77712b,soccer_epl,EPL,2024-10-05T14:00:00Z,West Ham United,Ipswich Town,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,2.15,2.5
+3a65b350186d7d31b94a79490e77712b,soccer_epl,EPL,2024-10-05T14:00:00Z,West Ham United,Ipswich Town,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.67,2.5
+3a65b350186d7d31b94a79490e77712b,soccer_epl,EPL,2024-10-05T14:00:00Z,West Ham United,Ipswich Town,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.2,2.5
+5e87d0e3412918b98c8d113071e8baeb,soccer_epl,EPL,2024-10-05T16:30:00Z,Everton,Newcastle United,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,1.57,2.5
+5e87d0e3412918b98c8d113071e8baeb,soccer_epl,EPL,2024-10-05T16:30:00Z,Everton,Newcastle United,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,2.25,2.5
+5e87d0e3412918b98c8d113071e8baeb,soccer_epl,EPL,2024-10-05T16:30:00Z,Everton,Newcastle United,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,1.57,2.5
+5e87d0e3412918b98c8d113071e8baeb,soccer_epl,EPL,2024-10-05T16:30:00Z,Everton,Newcastle United,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,2.25,2.5
+5e87d0e3412918b98c8d113071e8baeb,soccer_epl,EPL,2024-10-05T16:30:00Z,Everton,Newcastle United,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.98,3
+5e87d0e3412918b98c8d113071e8baeb,soccer_epl,EPL,2024-10-05T16:30:00Z,Everton,Newcastle United,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.85,3
+5e87d0e3412918b98c8d113071e8baeb,soccer_epl,EPL,2024-10-05T16:30:00Z,Everton,Newcastle United,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.6,2.5
+5e87d0e3412918b98c8d113071e8baeb,soccer_epl,EPL,2024-10-05T16:30:00Z,Everton,Newcastle United,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.33,2.5
+3ab4f45c9202a4f022129063909525db,soccer_epl,EPL,2024-10-06T13:00:00Z,Aston Villa,Manchester United,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,1.55,2.5
+3ab4f45c9202a4f022129063909525db,soccer_epl,EPL,2024-10-06T13:00:00Z,Aston Villa,Manchester United,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,2.31,2.5
+3ab4f45c9202a4f022129063909525db,soccer_epl,EPL,2024-10-06T13:00:00Z,Aston Villa,Manchester United,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.91,3
+3ab4f45c9202a4f022129063909525db,soccer_epl,EPL,2024-10-06T13:00:00Z,Aston Villa,Manchester United,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.91,3
+3ab4f45c9202a4f022129063909525db,soccer_epl,EPL,2024-10-06T13:00:00Z,Aston Villa,Manchester United,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,2.3,3.5
+3ab4f45c9202a4f022129063909525db,soccer_epl,EPL,2024-10-06T13:00:00Z,Aston Villa,Manchester United,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,1.54,3.5
+3ab4f45c9202a4f022129063909525db,soccer_epl,EPL,2024-10-06T13:00:00Z,Aston Villa,Manchester United,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,1.6,2.5
+3ab4f45c9202a4f022129063909525db,soccer_epl,EPL,2024-10-06T13:00:00Z,Aston Villa,Manchester United,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,2.33,2.5
+29d04a19d222c7eeda321e1f1eace351,soccer_epl,EPL,2024-10-06T13:00:00Z,Chelsea,Nottingham Forest,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,2.3,3.5
+29d04a19d222c7eeda321e1f1eace351,soccer_epl,EPL,2024-10-06T13:00:00Z,Chelsea,Nottingham Forest,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,1.55,3.5
+29d04a19d222c7eeda321e1f1eace351,soccer_epl,EPL,2024-10-06T13:00:00Z,Chelsea,Nottingham Forest,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.89,3
+29d04a19d222c7eeda321e1f1eace351,soccer_epl,EPL,2024-10-06T13:00:00Z,Chelsea,Nottingham Forest,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.93,3
+29d04a19d222c7eeda321e1f1eace351,soccer_epl,EPL,2024-10-06T13:00:00Z,Chelsea,Nottingham Forest,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,2.25,3.5
+29d04a19d222c7eeda321e1f1eace351,soccer_epl,EPL,2024-10-06T13:00:00Z,Chelsea,Nottingham Forest,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,1.57,3.5
+29d04a19d222c7eeda321e1f1eace351,soccer_epl,EPL,2024-10-06T13:00:00Z,Chelsea,Nottingham Forest,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2.43,3.5
+29d04a19d222c7eeda321e1f1eace351,soccer_epl,EPL,2024-10-06T13:00:00Z,Chelsea,Nottingham Forest,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.56,3.5
+e9c70d65b1e7fd19519abf5a602adf5a,soccer_epl,EPL,2024-10-06T15:30:00Z,Brighton and Hove Albion,Tottenham Hotspur,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Over,2.08,3.5
+e9c70d65b1e7fd19519abf5a602adf5a,soccer_epl,EPL,2024-10-06T15:30:00Z,Brighton and Hove Albion,Tottenham Hotspur,mybookieag,MyBookie.ag,2024-09-27T17:50:33Z,totals,2024-09-27T17:50:33Z,Under,1.67,3.5
+e9c70d65b1e7fd19519abf5a602adf5a,soccer_epl,EPL,2024-10-06T15:30:00Z,Brighton and Hove Albion,Tottenham Hotspur,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Over,2.2,3.5
+e9c70d65b1e7fd19519abf5a602adf5a,soccer_epl,EPL,2024-10-06T15:30:00Z,Brighton and Hove Albion,Tottenham Hotspur,betmgm,BetMGM,2024-09-27T17:54:52Z,totals,2024-09-27T17:54:52Z,Under,1.61,3.5
+e9c70d65b1e7fd19519abf5a602adf5a,soccer_epl,EPL,2024-10-06T15:30:00Z,Brighton and Hove Albion,Tottenham Hotspur,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Over,1.93,3.25
+e9c70d65b1e7fd19519abf5a602adf5a,soccer_epl,EPL,2024-10-06T15:30:00Z,Brighton and Hove Albion,Tottenham Hotspur,bovada,Bovada,2024-09-27T17:57:44Z,totals,2024-09-27T17:57:44Z,Under,1.89,3.25
+e9c70d65b1e7fd19519abf5a602adf5a,soccer_epl,EPL,2024-10-06T15:30:00Z,Brighton and Hove Albion,Tottenham Hotspur,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Over,2.3,3.5
+e9c70d65b1e7fd19519abf5a602adf5a,soccer_epl,EPL,2024-10-06T15:30:00Z,Brighton and Hove Albion,Tottenham Hotspur,betrivers,BetRivers,2024-09-27T17:57:45Z,totals,2024-09-27T17:57:45Z,Under,1.62,3.5
